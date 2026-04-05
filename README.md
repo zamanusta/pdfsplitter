@@ -19,7 +19,7 @@ A lightweight Python CLI tool to extract specific pages from a PDF file. Select 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/pdfsplitter.git
+git clone https://github.com/zamanusta/pdfsplitter.git
 cd pdfsplitter
 
 # 2. Install the dependency
